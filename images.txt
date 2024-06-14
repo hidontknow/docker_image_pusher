@@ -3,3 +3,4 @@ nginx:1.23.4
 redis:6.2.12
 elasticsearch:8.7.0
 rabbitmq:3.12-management
+zulu-openjdk:17-jre
